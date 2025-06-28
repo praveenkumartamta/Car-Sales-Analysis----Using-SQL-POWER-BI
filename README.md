@@ -38,7 +38,6 @@ The Power BI dashboard includes the following visualizations:
 ## 1. Fuel Type Distribution
    - Petrol cars are the most listed.
    - Diesel cars follow next.
-   - CNG cars are the least listed.
 
 ## 2. Transmission Type
    - Manual cars are more common.
